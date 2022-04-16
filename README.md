@@ -2,7 +2,7 @@
 
  <p align="left">
  	<img src='https://img.shields.io/badge/Nan--nx-https%3A%2F%2Ft.me%2FNan__nx-green'>
- 	<img src='https://img.shields.io/nuget/v/Observer.Maybe.svg'>
+ 	<img src='https://img.shields.io/badge/Book-v1.0-green'>
  </p>
  
  
