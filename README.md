@@ -16,7 +16,7 @@
  	```C#
  	```
  	public bool HasValue { get; }
- 	- 支持Book的epub自制书籍
+ 	支持Book的epub自制书籍
  	public Exception? InnerException { get; }
   
  #### Api
