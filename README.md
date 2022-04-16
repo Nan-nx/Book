@@ -10,8 +10,8 @@
 
 
  #### 简介
- - 支持Book的epub自制书籍
- - 不局限于单一风格图书
+  - 支持Book的epub自制书籍
+  - 不局限于单一风格图书
 
  #### Api
 
@@ -23,7 +23,6 @@
  	public Exception? InnerException { get; }
 
 
- Install
  ## Install
 
  	dotnet add package Observer.Maybe 
@@ -33,7 +32,7 @@
 
  	Install-Package Observer.Maybe
 
- Usage
+ 
  ## Usage
 
  	```C#
