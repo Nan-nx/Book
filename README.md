@@ -12,16 +12,13 @@
 
  #### Api
 
- ========================
 
  	```C#
  	```
  	public bool HasValue { get; }
  	public bool HasException { get; }
  	public Exception? InnerException { get; }
- @@ -31,15 +31,17 @@ Api
- 	public Maybe<T> Or(T obj);
- 	```
+
 
  Install
  ## Install
