@@ -13,16 +13,11 @@
   - 支持Book的epub自制书籍
   - 不局限于单一风格图书
 
- 	```C#
- 	```
- 	public bool HasValue { get; }
- 	支持Book的epub自制书籍
- 	public Exception? InnerException { get; }
   
  #### Api
 
 
- 	```C#
+ 	
  	```
  	public bool HasValue { get; }
  	public bool HasException { get; }
