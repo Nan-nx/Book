@@ -1,10 +1,8 @@
 ### Welcome to Book ！
 
  * <p align="left">
- 	<img src='https://img.shields.io/badge/Book-v1.0-blue'>
-  <img src='https://img.shields.io/badge/by-Nan--nx-green'>
- 	
- </p>
+ 	<img src='https://img.shields.io/badge/Book-v1.0-blue'>  <img src='https://img.shields.io/badge/by-Nan--nx-green'>
+ 	 </p>
  
  
  * 均来自网络收集与自行整理
