@@ -2,7 +2,11 @@
 
   <p align="left">
  	<img src='https://img.shields.io/badge/Book-v1.0-blue'>  <img src='https://img.shields.io/badge/by-Nan--nx-green'>
- 	</p>
+ 	</p>  
+ <p align="left">
+ 	<a href="https://github.com/Nan-nx/En"><img src='https://img.shields.io/badge/Quan_X-v1.0-blue'/></a>
+	<a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/by-Nan--nx-green'/></a>
+ </p>
  
 
 
