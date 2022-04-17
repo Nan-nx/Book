@@ -1,7 +1,10 @@
 ### Welcome to Book ！
 
  * <p align="left">
- 	<img src='https://img.shields.io/badge/Book-v1.0-blue'>  <img src='https://img.shields.io/badge/by-Nan--nx-green'>
+ 	<img src='https://img.shields.io/badge/Book-v1.0-blue'>  
+  <img src='https://img.shields.io/badge/by-Nan--nx-green'>
+<p align="center">
+<a href="https://github.com/Nan-nx/En/actions?query=workflow%3AVerify+branch%3Adevelop"><img src="https://img.shields.io/github/workflow/status/Nan-nx/En/Verify/develop?logo=github&label=tests" alt="Build status"/></
  	 </p>
  
  
