@@ -10,8 +10,14 @@
 
  #### Content
   ```	
+  - 毛选
+ 	- 明颂
+  - 明朝那些事儿
   - 大奉打更人
- 	
+  - 大奉打更人
+  - 大奉打更人
+  - 大奉打更人
+  - 大奉打更人
   ```
  #### ChangeLog
   
@@ -23,7 +29,7 @@
 
  #### Contact
 
-  - [Telegram](https://t.me/Nan_nx) © Nan-nx
+  - © Nan-nx
  
  
  
