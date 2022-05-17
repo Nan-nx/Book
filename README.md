@@ -4,10 +4,10 @@
 <a href="https://github.com/Nan-nx/Book"><img src='https://img.shields.io/badge/Book-v3.0-red'/></a> 
 <a href="https://t.me/Nan_nx"><img src='https://img.shields.io/badge/By-Nan--nx-green'/></a>
 
-  ```
+
   - 支持Book的epub自制书籍
   - 不局限于单一风格图书
-  ```
+
  #### Content
   ```	
   - 毛泽东选集
